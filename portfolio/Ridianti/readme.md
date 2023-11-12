@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="foto2.jpeg" width="324px" height="334px">
+  <img src="foto3.jpeg" width="524px" height="324px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ridianti Riski</h1>
