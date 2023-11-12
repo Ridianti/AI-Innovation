@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="foto.jpeg" width="324px" height="524px">
+</p>
 
 <h1 align="center">Hi 👋, I'm Ridianti Riski</h1>
 <h3 align="center">An Sharia Life Reinsurance Actuary</h3>
