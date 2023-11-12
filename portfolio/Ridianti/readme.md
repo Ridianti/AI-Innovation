@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ridianti Riski</h1>
-<h3 align="center">An Sharia Life Reinsurance Actuary</h3>
+<h3 align="center">A Sharia Life Reinsurance Actuary</h3>
 <br>
 
 - 🌱 I’m currently learning **data science!**
